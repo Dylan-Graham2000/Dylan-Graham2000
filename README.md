@@ -1,16 +1,19 @@
-## Hi there 👋
+# What's up 🚀
 
-<!--
-**Dylan-Graham2000/Dylan-Graham2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dylan-Graham2000**, a frontend hacker.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Always learning new things
+- 💬 Ask me anything about code
+- 👯 Looking to collaborate on open source
+- ⚡ Fun fact: I write code while drinking coffee
+- 🐛 Bug hunter by night
+
+## Tech
+
+`MongoDB` `Go` `Lua` `Express` `Spring`
+
+---
+
+_Early bird._
